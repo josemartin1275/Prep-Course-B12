@@ -4,18 +4,18 @@
 // Pista: "console.log()" NO fucionará.
 // No cambies los nombres de las funciones.
 
-function devolverString(str) {
+function devolverString(str) {   return str;
     // "Return" la string provista: str
     // Tu código:
   }
   
-  function suma(x, y) {
+  function suma(x, y) {  return x + y; 
     // "x" e "y" son números
     // Suma "x" e "y" juntos y devuelve el valor
     // Tu código:
   }
   
-  function resta(x, y) {
+  function resta(x, y) {  return x - y; 
     // Resta "y" de "x" y devuelve el valor
     // Tu código:
   }
@@ -144,7 +144,7 @@ function devolverString(str) {
     //Escribe tu código aquí
   }
   
-  function deEuroAdolar(euro) {
+  function deEuroAdolar(euro) { return euro * 1.2
     //Supongamos que 1 euro equivale a 1.20 dólares. Escribe un programa que reciba
     //como parámetro un número de euros y calcule el cambio en dólares.
     //Escribe tu código aquí
