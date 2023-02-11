@@ -6,7 +6,7 @@
 
 function devolverString(str) {   return str;
     // "Return" la string provista: str
-    // Tu código:
+    // Tu código: 
   }
   
   function suma(x, y) {  return x + y; 
